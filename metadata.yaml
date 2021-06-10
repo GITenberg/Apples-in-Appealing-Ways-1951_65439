@@ -1,0 +1,26 @@
+_repo: Apples-in-Appealing-Ways-1951_65439
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Swickard, Mary T.
+    alias: Swickard, Mary Traeblood
+    birthdate: 1909
+    gutenberg_agent_id: '53327'
+    url: http://www.gutenberg.org/2009/agents/53327
+description: ''
+gutenberg_issued: '2021-05-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65439'
+  lccn: agr51000414
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: United States. Department of Agriculture. Leaflet no. 312.
+subjects:
+- !lcsh 'Cooking (Apples)'
+- !lcc 'TX'
+- GITenberg
+title: Apples in Appealing Ways [1951]
+url: http://www.gutenberg.org/ebooks/65439
